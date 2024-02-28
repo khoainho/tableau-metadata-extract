@@ -23,5 +23,5 @@ pip install -r requirements.txt
  5. Replace the environment variables in the script with your requirements
  6. Run the following command
  ```python
-    metadata.py
+ python metadata.py
 ```
