@@ -18,11 +18,11 @@ pip install -r requirements.txt
  3. Create a .env file inside the Batch_Process folder and include the following info
 
 ```python
-    USER={your username}
-    PWD={your password}
+    USER={PLACE YOUR USERNAME HERE}
+    PWD={PLACE YOUR PASSWROD}
 ```
  5. Replace the environment variables in the script with your requirements
  6. Run the following command
  ```python
- python metadata.py
+ python src/metadata.py
 ```
