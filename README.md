@@ -4,6 +4,7 @@ This tool is designed to help you with the extraction of metadata from Tableau W
 
 ## Technologies
 * Python 
+* Pandas
 * tableauserverclient
 * pickle
 * sqlalchemy
