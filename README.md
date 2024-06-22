@@ -22,8 +22,8 @@ pip install -r requirements.txt
  3. Create a .env file inside the Batch_Process folder and include the following info
 
 ```python
-    USER = PLACE YOUR USERNAME HERE
-    PWD = PLACE YOUR PASSWROD
+    USER = ${Place your username here}
+    PWD = ${Place your passwrod here}
 ```
 
  5. Replace the environment variables in the script with your requirements
